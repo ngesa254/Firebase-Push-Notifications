@@ -1,4 +1,4 @@
-# Firebase-Push-Notifications
+# Firebase Push Notifications
 
 Push Notifications with Firebase Cloud Messaging Tutorial
 
