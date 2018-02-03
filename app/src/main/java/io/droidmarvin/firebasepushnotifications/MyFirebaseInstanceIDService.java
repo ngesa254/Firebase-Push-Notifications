@@ -2,8 +2,9 @@ package io.droidmarvin.firebasepushnotifications;
 
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
-import android.util.Log; import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.FirebaseInstanceIdService; import co.centroida.notifications.Constants;
+import android.util.Log;
+import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.iid.FirebaseInstanceIdService;
 
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 
